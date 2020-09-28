@@ -16,7 +16,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/mother/react-files.git"
+    "url": "https://github.com/robsoninocencio/react-files.git"
   },
   "keywords": [
     "react",
@@ -27,12 +27,9 @@
     "input",
     "dropzone"
   ],
-  "author": "Mother Co",
+  "author": "Robson Inocêncio",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/mother/react-files/issues"
-  },
-  "homepage": "https://github.com/mother/react-files",
+  "homepage": "https://github.com/robsoninocencio/react-files",
   "peerDependencies": {
     "react": "^15.0.0 || ^16"
   },
