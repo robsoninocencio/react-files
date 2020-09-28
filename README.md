@@ -59,12 +59,8 @@ ReactDOM.render(<FilesDemo />, document.getElementById('container'))
 
 #### Advanced
 
-See "Tinker" instructions below to run and view all examples.
-
-### Tinker
-
 ```
-git clone https://github.com/mother/react-files
+git clone https://github.com/robsoninocencio/react-files
 npm install
 ```
 And since React is just a peer dependency:
@@ -165,13 +161,6 @@ Default: `'files-dropzone-active'`
 
 Class added to the Files component when user is actively hovering over the dropzone with files selected.
 
----
-
-### Test (todo)
-
-```
-npm test
-```
 
 ### License
 
